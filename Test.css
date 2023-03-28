@@ -1,0 +1,269 @@
+body{
+    margin:0;
+    padding:0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    align-items: center;
+    padding-left: 30px;
+}
+.content{
+    /* display: flex; */
+    padding: 0px 35px;
+}
+.logo img{
+    height:55px;
+    width:191px;
+}
+.list{
+    display: flex;
+    
+}
+.list li{
+padding-left: 20px;   
+text-decoration: none; 
+list-style: none;
+}
+.list a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+.list a:hover{
+    text-decoration: underline;
+}
+.full{
+    background-color:#ffbc4b;
+    /* padding: 0;
+    margin: 0; */
+}
+.bodys{
+    display: flex;
+    justify-content: space-around;
+    font-weight: 200px;
+    font-size:30px;
+    line-height: 70px;
+    padding-left: 40px;
+    padding-bottom: 100px;
+}
+.text a{
+    text-decoration: none;
+    color: black;
+}
+.text a:hover{
+    text-decoration: underline;
+}
+
+.list{
+    font-size: 20px;
+}
+.image
+{
+    transform: rotate(10deg);
+    padding-right: 40px;
+}
+.navbar1{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 35px;
+    align-items: center;
+    
+}
+.navbar1 h1{
+    font-size: 35px;
+    padding-top: 20px;
+    padding-left: 35px;
+    
+}
+.navbar1 h4{
+font-size: 20px;
+font-family:sans-serif;
+}
+.pics{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 20px;
+}
+ .unordered{
+    /* text-decoration: none; */
+    display: flex;
+    font-size:8px;
+    padding-left: 0%;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.unordered li{
+    text-decoration:none;
+    padding:2px 2px;
+}
+
+.unordered a:hover{
+    text-decoration: bisque;
+}
+
+.one{
+    text-decoration: none;
+    padding: 1px 1px;
+    background-color: black;
+    color: white;
+
+}
+.two{
+    text-decoration:none;
+    background-color:lawngreen;
+    color:black;
+}
+.three{
+    text-decoration:none;
+    background-color: lawngreen;
+    color: black;
+}
+.four{
+    text-decoration:none;
+    background-color:lawngreen;
+    color: black;
+}
+.secondpic a{
+text-decoration: none;
+color: black;
+}
+.secondpic a:hover{
+    text-decoration: underline;
+}
+.fourthpic a{
+text-decoration: none;
+color: black;
+}
+.fourthpic a:hover{
+    text-decoration: underline;
+}
+.design{
+    background-color:lawngreen;
+    padding :2px 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.unordered1 li{
+    text-decoration: none;
+    padding:2px 2px;
+}
+.unordered1{ 
+    display: flex;
+    font-size:12px;
+    padding-left: 0%;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.wholesent{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+    align-items: center;
+}
+.sentence{
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 35px;;
+}
+.sente{
+    font-family:sans-serif;
+    font-weight: lighter;
+    font-size: 10px;;
+}
+.images1{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 0;
+}
+.one1{
+    line-height: 14px;
+}
+.two2{
+    line-height: 14px;
+    
+}
+.three3{
+    line-height: 14px;
+}
+.fourthsec{
+    background-color: black;
+    
+}
+.sent1{
+    padding: 50px 30px;
+    color: white;
+    font-size: 40px;
+    padding-left: 65px;
+}
+.sent2{
+    
+    color: white;
+    font-weight: lighter;
+    font-family: serif;
+    text-decoration: white underline;
+    text-align: right;
+    padding-right: 45px;
+    padding-bottom: 45px;;
+}
+.wholeblock{
+    display: flex;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+.sentool{
+    line-height: 15px;
+    padding-top: 0;
+}
+.toview{
+    padding-left: 200px;
+}
+.imgs{
+    display: flex;
+    padding-left: 40px;
+    align-items:initial
+}
+.alldiv{
+    display: flex;
+    align-items:baseline;
+    
+}
+.box2{
+    padding-top: 45px;
+    display: flex;
+    line-height: 15px;
+    
+}
+.sentjob{
+    /* padding-top: 40px; */
+    padding-left: 120px;
+    line-height: 8px;
+}
+.teamview{
+    padding-left: 80px;
+}
+.ss1{
+    padding-top: 0;
+}
+.ss1 a{
+    text-decoration: none;
+    color: black;
+}
+.ss1 a:hover{
+    text-decoration: underline;
+}
+.ss2 a{
+    text-decoration: none;
+    color: black;
+}
+.ss2 a:hover{
+    text-decoration: underline;
+}
+.footernam{
+    display: flex;
+    padding-top: 40px;
+    justify-content: space-around;
+    background-color: #ffbc4b;
+}
